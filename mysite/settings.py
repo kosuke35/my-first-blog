@@ -25,7 +25,7 @@ SECRET_KEY = 'g45m8lh$ge6(ypi*3g8=^2tzjz40749gv0^_bq=de2&#=+*w1-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kosuke.pythonanywhere.com']
+ALLOWED_HOSTS = ['kosuke.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
